@@ -1,0 +1,7 @@
+name: "US-Accident-Analysis"
+output_dir: "."
+navbar:
+  title: "US Accident Analysis"
+  left:
+    - text: "Home"
+      href: index.html
